@@ -18,6 +18,12 @@ Mobile: React Native (TypeScript) with Redux Toolkit. Backend: NestJS, TypeORM, 
 
 The project features a unified transaction categorization engine that combines rules-based matching with AI fallback for PDF, SMS, and manual imports. It includes bank statement OCR parsing supporting over twenty Indian banks using a mix of regex and ML-assisted extraction. Real-time balance updates are delivered via WebSockets, backed by Redis-cached account queries and atomic multi-account transfers. The analytics suite covers spending predictions, subscription detection, and category trend analysis, alongside a client-side AI assistant. The infrastructure is production-hardened with health checks, security headers, and automated CI/CD deployment.
 
+## App Screenshots
+
+<img src="screenshots/dashboard.png" width="200"> <img src="screenshots/accounts.png" width="200"> <img src="screenshots/analytics.png" width="200"> <img src="screenshots/budgets.png" width="200">
+
+<img src="screenshots/history.png" width="200"> <img src="screenshots/spending.png" width="200"> <img src="screenshots/account-insights.png" width="200"> <img src="screenshots/splash.png" width="200">
+
 ## Note
 
 The source code for this project is kept in a private repository. This page exists to share the project's architecture and stack publicly without exposing the codebase.
