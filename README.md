@@ -2,6 +2,10 @@
 
 This is a public summary repo for a private project. It shares the tech stack and high-level highlights only; no source code is included here.
 
+## Live App / Screenshots
+
+Check out the live app landing page and screenshots here: https://www.spendkar.com/
+
 ## About
 
 AI-powered expense tracking app with multi-account support, spending predictions, and financial insights.
